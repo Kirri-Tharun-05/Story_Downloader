@@ -6,6 +6,7 @@
   "license": "UNLICENSED",
   "private": true,
   "dependencies": {
+    "@fontsource/mukta": "^5.2.6",
     "@remotion/cli": "4.0.306",
     "@remotion/zod-types": "4.0.306",
     "axios": "^1.9.0",

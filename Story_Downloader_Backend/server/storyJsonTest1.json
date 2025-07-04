@@ -1,0 +1,143 @@
+{
+  "metadata": {
+    "title": "Harry Potter and the Philosopher’s Stone",
+    "publisher": "J.K. Rowling",
+    "publisherLogo": "https://images.gr-assets.com/authors/1596216614p5/1077326.jpg",
+    "backgroundAudio": ""
+  },
+  "pages": [
+    {
+      "id": "slide1",
+      "autoAdvanceAfter": "7s",
+      "images": [
+        {
+          "type": "image",
+          "src": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1598823299i/42844155.jpg",
+          "layout": "responsive"
+        }
+      ],
+      "texts": [
+        {
+          "type": "text",
+          "tag": "h1",
+          "content": "Harry Potter and the Philosopher’s Stone"
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "content": "An alternative cover for this ASIN can be found here \"Turning the envelope over, his hand trembling, Harry saw a purple wax seal bearing a coat of arms..."
+        }
+      ]
+    },
+    {
+      "id": "slide2",
+      "autoAdvanceAfter": "7s",
+      "images": [
+        {
+          "type": "image",
+          "src": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1598823299i/42844155.jpg",
+          "layout": "responsive"
+        }],
+      "texts": [
+        {
+          "type": "text",
+          "tag": "h2",
+          "content": "Genres"
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "content": "Fantasy, Fiction, Young Adult, Magic, Childrens, Middle Grade, Audiobook"
+        }
+      ]
+    },
+    {
+      "id": "slide3",
+      "autoAdvanceAfter": "7s",
+      "images": [
+        {
+          "type": "image",
+          "src": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1598823299i/42844155.jpg",
+          "layout": "responsive"
+        }],
+      "texts": [
+        {
+          "type": "text",
+          "tag": "h2",
+          "content": "Rating & Reviews"
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "content": "Rating: 4.47 (183023 reviews)"
+        }
+      ]
+    },
+    {
+      "id": "slide4",
+      "autoAdvanceAfter": "10s",
+      "images": [
+        {
+          "type": "image",
+          "src": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1598823299i/42844155.jpg",
+          "layout": "responsive"
+        }],
+      "texts": [
+        {
+          "type": "text",
+          "tag": "h2",
+          "content": "Review by Jayson"
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "content": "(A-) 83% | Very Good Notes: An effortless enchantment..."
+        }
+      ]
+    },
+    {
+      "id": "slide5",
+      "autoAdvanceAfter": "10s",
+      "images": [
+        {
+          "type": "image",
+          "src": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1598823299i/42844155.jpg",
+          "layout": "responsive"
+        }],
+      "texts": [
+        {
+          "type": "text",
+          "tag": "h2",
+          "content": "Review by Mark Lawrence"
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "content": "Publishers have my sympathy. If I try to put myself..."
+        }
+      ]
+    },
+    {
+      "id": "slide6",
+      "autoAdvanceAfter": "10s",
+      "images": [
+        {
+          "type": "image",
+          "src": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1598823299i/42844155.jpg",
+          "layout": "responsive"
+        }],
+      "texts": [
+        {
+          "type": "text",
+          "tag": "h2",
+          "content": "Review by Miranda Reads"
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "content": "Stuck at home? Got some time on your hands?..."
+        }
+      ]
+    }
+  ]
+}

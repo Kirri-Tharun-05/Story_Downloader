@@ -14,6 +14,9 @@ export interface TextElement {
 export interface AMPStoryPage {
   id: string;
   backgroundAudio?: string;
+  // made changes here
+  voiceOverAudio?: string;
+  voiceOverDuration?: number;
   autoAdvanceAfter?: string;
   images: ImageElement[];
   texts: TextElement[];

@@ -7,8 +7,10 @@ const ENTRY_FILE = 'src/index.ts';
 
 // Load your scraped data
 const dataPath = path.resolve(__dirname, '../Scraping_Data/scraped-text-and-images.json');
+console.log(dataPath);
 const rawData = fs.readFileSync(dataPath, 'utf-8');
 const json = JSON.parse(rawData);
+console.log(json);
 const slides = json.pages;
 
 if (!Array.isArray(slides)) {
