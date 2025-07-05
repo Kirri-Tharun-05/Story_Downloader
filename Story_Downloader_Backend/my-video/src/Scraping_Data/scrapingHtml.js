@@ -56,7 +56,7 @@ async function fetchAmpHtml(url, outputPath = 'scraped-story.html') {
 // fetchAmpHtml('https://suvichaar.org/stories/unveiling-hidden-truths-deep-insights-by-noam-chomsky_MMislPwZAR_G');
 
 //story 10
-fetchAmpHtml('https://suvichaar.org/stories/unlocking-success-with-dwayne-johnson-determination-humility-and-hard-work_DMY3JQNtIs_G');
+// fetchAmpHtml('https://suvichaar.org/stories/unlocking-success-with-dwayne-johnson-determination-humility-and-hard-work_DMY3JQNtIs_G');
 
 
 //story 11
@@ -67,3 +67,9 @@ fetchAmpHtml('https://suvichaar.org/stories/unlocking-success-with-dwayne-johnso
 
 //story 13
 // fetchAmpHtml('https://suvichaar.org/stories/kudrat-by-naman-jain-a-poetry-to-save-nature_RgYAAx_byr_G');
+
+
+
+// for live
+fetchAmpHtml('https://suvichaar.org/stories/us-airstrikes-on-iran-spark-worldwar-trend_IkXmWSoB91_G');
+

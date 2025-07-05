@@ -16,6 +16,7 @@
     "cheerio": "^1.0.0",
     "child_process": "^1.0.2",
     "cors": "^2.8.5",
+    "dotenv": "^17.0.1",
     "express": "^4.21.2",
     "fs": "^0.0.1-security",
     "get-audio-duration": "^4.0.1",

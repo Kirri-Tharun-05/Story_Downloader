@@ -1,23 +1,3 @@
-// import React from 'react';
-// import { useNavigate } from 'react-router-dom';
-// import '../App.css'
-// const Home = () => {
-//   const navigate = useNavigate();
-
-//   return (
-//     <div className="container">
-//       <h1 className="title">🧠 Story Generator</h1>
-//       <div className="button-group">
-//         <button onClick={() => navigate('/json')}>Generate through JSON</button>
-//         <button onClick={() => navigate('/url')}>Generate through URL</button>
-//       </div>
-//     </div>
-//   );
-// };
-
-// export default Home;
-
-
 import React from 'react';
 import { useNavigate } from 'react-router-dom';
 import '../App.css';
